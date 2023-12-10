@@ -7,6 +7,9 @@ public class Calculator {
 	public int findCube(int num){
 		return num*num*num;
 	}
+	public int findSum(int num1,int num2) {
+		return num1+num2;
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
